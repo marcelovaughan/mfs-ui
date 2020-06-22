@@ -1,0 +1,1 @@
+{"version":3,"file":"literal.js","sourceRoot":"","sources":["../../../src/types/props/literal.ts"],"names":[],"mappings":";;AAEA,MAAM,UAAU,GAAG,aAAa,CAAC;AAOjC,SAAgB,WAAW,CAAC,KAAc,EAAE,KAAc;IACxD,OAAO;QACL,IAAI,EAAE,UAAU;QAChB,KAAK;QACL,KAAK;KACN,CAAC;AACJ,CAAC;AAND,kCAMC;AAED,SAAgB,aAAa,CAAC,IAAU;IACtC,OAAO,IAAI,CAAC,IAAI,KAAK,UAAU,CAAC;AAClC,CAAC;AAFD,sCAEC"}

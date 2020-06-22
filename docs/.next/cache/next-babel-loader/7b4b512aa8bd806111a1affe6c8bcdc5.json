@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport CircularProgress from \"../../../../../packages/material-ui/src/CircularProgress\";\n\nvar _ref = __jsx(CircularProgress, {\n  disableShrink: true\n});\n\nexport default function CircularUnderLoad() {\n  return _ref;\n}","map":null,"metadata":{},"sourceType":"module"}

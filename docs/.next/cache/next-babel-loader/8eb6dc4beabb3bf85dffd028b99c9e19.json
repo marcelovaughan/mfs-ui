@@ -1,0 +1,1 @@
+{"ast":null,"code":"function sleep(delay = 0) {\n  return new Promise(resolve => {\n    setTimeout(resolve, delay);\n  });\n}\n\nexport default sleep;","map":null,"metadata":{},"sourceType":"module"}

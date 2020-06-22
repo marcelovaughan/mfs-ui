@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport ClassNames from \"./ClassNames\"; // We can use ClassNames over and over.\n\nvar _ref = __jsx(ClassNames, null, \"Component\");\n\nexport default function Component() {\n  return _ref;\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"// Disable auto highlighting\n// https://github.com/PrismJS/prism/issues/765\nif (true) {\n  window.Prism = window.Prism || {};\n  window.Prism.manual = true;\n}","map":null,"metadata":{},"sourceType":"script"}

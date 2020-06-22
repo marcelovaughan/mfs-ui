@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function loadScript(src, position) {\n  var script = document.createElement('script');\n  script.setAttribute('async', '');\n  script.src = src;\n  position.appendChild(script);\n  return script;\n}","map":null,"metadata":{},"sourceType":"module"}

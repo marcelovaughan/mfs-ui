@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default, styleFunction } from \"./Box\";","map":{"version":3,"sources":["/home/marcelo.faria/Documentos/b2w/msf-ui/packages/material-ui/src/Box/index.js"],"names":["default","styleFunction"],"mappings":"AAAA,SAASA,OAAT,EAAkBC,aAAlB","sourcesContent":["export { default, styleFunction } from './Box';\n"]},"metadata":{},"sourceType":"module"}

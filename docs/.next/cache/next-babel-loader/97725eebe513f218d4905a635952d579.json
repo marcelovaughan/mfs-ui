@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { withThemeCreator } from \"../../../material-ui-styles/src\";\nimport defaultTheme from \"./defaultTheme\";\nconst withTheme = withThemeCreator({\n  defaultTheme\n});\nexport default withTheme;","map":null,"metadata":{},"sourceType":"module"}

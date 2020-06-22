@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { deepmerge } from \"../../../material-ui-utils/src\";\nimport createMuiTheme from \"./createMuiTheme\";\nexport default function createMuiStrictModeTheme(options, ...args) {\n  return createMuiTheme(deepmerge({\n    unstable_strictMode: true\n  }, options), ...args);\n}","map":null,"metadata":{},"sourceType":"module"}

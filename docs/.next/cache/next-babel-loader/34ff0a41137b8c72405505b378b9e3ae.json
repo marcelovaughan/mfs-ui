@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport * as React from 'react';\nimport createSvgIcon from \"./utils/createSvgIcon\";\nexport default createSvgIcon(__jsx(\"circle\", {\n  cx: \"12\",\n  cy: \"12\",\n  r: \"8\"\n}), 'FiberManualRecordRounded');","map":null,"metadata":{},"sourceType":"module"}

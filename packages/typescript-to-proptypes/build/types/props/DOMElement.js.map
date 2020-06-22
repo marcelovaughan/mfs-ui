@@ -1,0 +1,1 @@
+{"version":3,"file":"DOMElement.js","sourceRoot":"","sources":["../../../src/types/props/DOMElement.ts"],"names":[],"mappings":";;AAEA,MAAM,UAAU,GAAG,gBAAgB,CAAC;AAMpC,SAAgB,cAAc,CAAC,QAAkB;IAC/C,OAAO;QACL,IAAI,EAAE,UAAU;QAChB,QAAQ;KACT,CAAC;AACJ,CAAC;AALD,wCAKC;AAED,SAAgB,gBAAgB,CAAC,IAAU;IACzC,OAAO,IAAI,CAAC,IAAI,KAAK,UAAU,CAAC;AAClC,CAAC;AAFD,4CAEC"}

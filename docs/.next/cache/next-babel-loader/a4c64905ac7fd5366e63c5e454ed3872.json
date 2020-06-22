@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _Symbol$for from \"@babel/runtime-corejs2/core-js/symbol/for\";\nimport _Symbol from \"@babel/runtime-corejs2/core-js/symbol\";\nvar hasSymbol = typeof _Symbol === 'function' && _Symbol$for;\nexport default hasSymbol ? _Symbol$for('mui.nested') : '__THEME_NESTED__';","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,468 @@
+{
+  "./AppSearch": [
+    {
+      "id": "../node_modules/algoliasearch/node_modules/debug/src/browser.js",
+      "name": "../node_modules/algoliasearch/node_modules/debug/src/browser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/node_modules/debug/src/debug.js",
+      "name": "../node_modules/algoliasearch/node_modules/debug/src/debug.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/node_modules/isarray/index.js",
+      "name": "../node_modules/algoliasearch/node_modules/isarray/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/node_modules/ms/index.js",
+      "name": "../node_modules/algoliasearch/node_modules/ms/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/AlgoliaSearchCore.js",
+      "name": "../node_modules/algoliasearch/src/AlgoliaSearchCore.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/IndexCore.js",
+      "name": "../node_modules/algoliasearch/src/IndexCore.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/browser/builds/algoliasearchLite.js",
+      "name": "../node_modules/algoliasearch/src/browser/builds/algoliasearchLite.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/browser/createAlgoliasearch.js",
+      "name": "../node_modules/algoliasearch/src/browser/createAlgoliasearch.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/browser/inline-headers.js",
+      "name": "../node_modules/algoliasearch/src/browser/inline-headers.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/browser/jsonp-request.js",
+      "name": "../node_modules/algoliasearch/src/browser/jsonp-request.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/buildSearchMethod.js",
+      "name": "../node_modules/algoliasearch/src/buildSearchMethod.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/clone.js",
+      "name": "../node_modules/algoliasearch/src/clone.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/deprecate.js",
+      "name": "../node_modules/algoliasearch/src/deprecate.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/deprecatedMessage.js",
+      "name": "../node_modules/algoliasearch/src/deprecatedMessage.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/errors.js",
+      "name": "../node_modules/algoliasearch/src/errors.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/exitPromise.js",
+      "name": "../node_modules/algoliasearch/src/exitPromise.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/map.js",
+      "name": "../node_modules/algoliasearch/src/map.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/merge.js",
+      "name": "../node_modules/algoliasearch/src/merge.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/omit.js",
+      "name": "../node_modules/algoliasearch/src/omit.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/places.js",
+      "name": "../node_modules/algoliasearch/src/places.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/store.js",
+      "name": "../node_modules/algoliasearch/src/store.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/algoliasearch/src/version.js",
+      "name": "../node_modules/algoliasearch/src/version.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/index.js",
+      "name": "../node_modules/autocomplete.js/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/css.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/css.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/dataset.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/dataset.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/dropdown.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/dropdown.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/event_bus.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/event_bus.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/event_emitter.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/event_emitter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/html.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/html.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/input.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/input.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/autocomplete/typeahead.js",
+      "name": "../node_modules/autocomplete.js/src/autocomplete/typeahead.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/common/dom.js",
+      "name": "../node_modules/autocomplete.js/src/common/dom.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/common/parseAlgoliaClientVersion.js",
+      "name": "../node_modules/autocomplete.js/src/common/parseAlgoliaClientVersion.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/common/utils.js",
+      "name": "../node_modules/autocomplete.js/src/common/utils.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/sources/hits.js",
+      "name": "../node_modules/autocomplete.js/src/sources/hits.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/sources/index.js",
+      "name": "../node_modules/autocomplete.js/src/sources/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/sources/popularIn.js",
+      "name": "../node_modules/autocomplete.js/src/sources/popularIn.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/src/standalone/index.js",
+      "name": "../node_modules/autocomplete.js/src/standalone/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/version.js",
+      "name": "../node_modules/autocomplete.js/version.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/autocomplete.js/zepto.js",
+      "name": "../node_modules/autocomplete.js/zepto.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/index.js",
+      "name": "../node_modules/docsearch.js/dist/npm/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/DocSearch.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/DocSearch.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/main.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/main.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/templates.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/templates.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/utils.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/utils.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/version.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/version.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/docsearch.js/dist/npm/src/lib/zepto.js",
+      "name": "../node_modules/docsearch.js/dist/npm/src/lib/zepto.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/es6-promise/dist/es6-promise.js",
+      "name": "../node_modules/es6-promise/dist/es6-promise.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/foreach/index.js",
+      "name": "../node_modules/foreach/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/global/window.js",
+      "name": "../node_modules/global/window.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/hogan.js/lib/compiler.js",
+      "name": "../node_modules/hogan.js/lib/compiler.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/hogan.js/lib/hogan.js",
+      "name": "../node_modules/hogan.js/lib/hogan.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/hogan.js/lib/template.js",
+      "name": "../node_modules/hogan.js/lib/template.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/index.js",
+      "name": "../node_modules/immediate/lib/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/messageChannel.js",
+      "name": "../node_modules/immediate/lib/messageChannel.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/mutation.js",
+      "name": "../node_modules/immediate/lib/mutation.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/nextTick.js",
+      "name": "../node_modules/immediate/lib/nextTick.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/stateChange.js",
+      "name": "../node_modules/immediate/lib/stateChange.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/immediate/lib/timeout.js",
+      "name": "../node_modules/immediate/lib/timeout.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/inherits/inherits_browser.js",
+      "name": "../node_modules/inherits/inherits_browser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/object-keys/implementation.js",
+      "name": "../node_modules/object-keys/implementation.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/object-keys/index.js",
+      "name": "../node_modules/object-keys/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/object-keys/isArguments.js",
+      "name": "../node_modules/object-keys/isArguments.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/process/browser.js",
+      "name": "../node_modules/process/browser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../node_modules/to-factory/to-factory.js",
+      "name": "../node_modules/to-factory/to-factory.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui-icons/src/Search.js",
+      "name": "../packages/material-ui-icons/src/Search.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/FormControl/FormControlContext.js",
+      "name": "../packages/material-ui/src/FormControl/FormControlContext.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/FormControl/formControlState.js",
+      "name": "../packages/material-ui/src/FormControl/formControlState.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/Input/Input.js",
+      "name": "../packages/material-ui/src/Input/Input.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/Input/index.js",
+      "name": "../packages/material-ui/src/Input/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/InputBase/InputBase.js",
+      "name": "../packages/material-ui/src/InputBase/InputBase.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/InputBase/index.js",
+      "name": "../packages/material-ui/src/InputBase/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/InputBase/utils.js",
+      "name": "../packages/material-ui/src/InputBase/utils.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/TextareaAutosize/TextareaAutosize.js",
+      "name": "../packages/material-ui/src/TextareaAutosize/TextareaAutosize.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "../packages/material-ui/src/TextareaAutosize/index.js",
+      "name": "../packages/material-ui/src/TextareaAutosize/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./src/modules/components/AppSearch.js",
+      "name": "./src/modules/components/AppSearch.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "../node_modules/next/dist/client/dev/noop.js",
+      "name": "../node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ]
+}

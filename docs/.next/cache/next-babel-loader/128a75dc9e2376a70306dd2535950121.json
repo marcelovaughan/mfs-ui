@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Slide\";","map":{"version":3,"sources":["/home/marcelo.faria/Documentos/b2w/msf-ui/packages/material-ui/src/Slide/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from './Slide';\n"]},"metadata":{},"sourceType":"module"}

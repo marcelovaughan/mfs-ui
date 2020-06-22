@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./ButtonBase\";","map":{"version":3,"sources":["/home/marcelo.faria/Documentos/b2w/msf-ui/packages/material-ui/src/ButtonBase/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from './ButtonBase';\n"]},"metadata":{},"sourceType":"module"}

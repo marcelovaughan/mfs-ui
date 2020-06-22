@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Fade\";","map":{"version":3,"sources":["/home/marcelo.faria/Documentos/b2w/msf-ui/packages/material-ui/src/Fade/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from './Fade';\n"]},"metadata":{},"sourceType":"module"}

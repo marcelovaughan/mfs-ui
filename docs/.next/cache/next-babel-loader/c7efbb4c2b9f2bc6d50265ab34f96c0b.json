@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./jssPreset\";","map":{"version":3,"sources":["/home/marcelo.faria/Documentos/b2w/msf-ui/packages/material-ui-styles/src/jssPreset/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from './jssPreset';\n"]},"metadata":{},"sourceType":"module"}
