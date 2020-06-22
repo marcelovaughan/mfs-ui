@@ -1,0 +1,7 @@
+{
+  "material-ui.production.min.js": {
+    "bundled": 929742,
+    "minified": 326411,
+    "gzipped": 94941
+  }
+}
